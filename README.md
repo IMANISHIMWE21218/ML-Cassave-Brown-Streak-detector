@@ -1,4 +1,4 @@
-![Screenshot_20-5-2024_105622_localhost](https://github.com/IMANISHIMWE21218/ML-Cassave-Brown-Streak-detector/assets/65288198/936bd647-7693-4ec2-9a57-44ecab78afb1)**ML Cassava Brown Streak Detector Project**
+**ML Cassava Brown Streak Detector Project**
 
 **Overview**
 The ML Cassava Brown Streak Detector is an advanced machine learning project aimed at aiding farmers and agricultural professionals in the early detection and management of Cassava Brown Streak Disease (CBSD). This innovative system leverages camera technology to identify signs of the disease in cassava leaves, offering a quick and accurate diagnosis. Users can either use a real-time camera feed to scan their plants or upload images for analysis. The detector provides immediate feedback on whether the cassava leaves are affected by CBSD or if they are healthy, enabling timely intervention and treatment to prevent the spread of the disease.
@@ -35,8 +35,14 @@ Early Detection: Identifies CBSD at early stages, allowing for prompt action.
 Improved Crop Management: Helps in maintaining healthy crops and increasing yield.
 Resource Efficiency: Saves time and resources by providing quick and reliable disease detection.
 
+
 **Screen shot**
+CAMERA SHOT
 ![Screenshot_20-5-2024_105622_localhost](https://github.com/IMANISHIMWE21218/ML-Cassave-Brown-Streak-detector/assets/65288198/abb8079a-609e-46b7-953e-844fd046475a)
+
+UPLOAD
+
+![Screenshot_20-5-2024_105622_localhost](https://github.com/IMANISHIMWE21218/ML-Cassave-Brown-Streak-detector/assets/65288198/936bd647-7693-4ec2-9a57-44ecab78afb1)
 
 ![Screenshot_19-5-2024_14326_localhost](https://github.com/IMANISHIMWE21218/ML-Cassave-Brown-Streak-detector/assets/65288198/b3c004ff-e8ea-4cee-962c-6e6013b86ed7)
 
