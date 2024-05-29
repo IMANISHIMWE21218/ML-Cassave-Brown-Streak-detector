@@ -42,8 +42,6 @@ CAMERA SHOT
 
 UPLOAD
 
-![Screenshot_20-5-2024_105622_localhost](https://github.com/IMANISHIMWE21218/ML-Cassave-Brown-Streak-detector/assets/65288198/936bd647-7693-4ec2-9a57-44ecab78afb1)
-
 ![Screenshot_19-5-2024_14326_localhost](https://github.com/IMANISHIMWE21218/ML-Cassave-Brown-Streak-detector/assets/65288198/b3c004ff-e8ea-4cee-962c-6e6013b86ed7)
 
 
